@@ -6,7 +6,18 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="600179ba-7e0c-4065-b88c-3a04bdea1f43" name="Default" comment="" />
+    <list default="true" id="600179ba-7e0c-4065-b88c-3a04bdea1f43" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.mps/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/sandbox/classes_gen/jetbrains/mps/calculator/sandbox/trace.info" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.mps/migration.xml" afterPath="$PROJECT_DIR$/.mps/migration.xml" />
+      <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/jetbrains.mps.calculator.mpl" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/jetbrains.mps.calculator.mpl" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/constraints.mps" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/constraints.mps" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/editor.mps" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/editor.mps" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/structure.mps" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/structure.mps" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/typesystem.mps" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/typesystem.mps" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +31,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="5876d164-b107-4422-8cf9-02795dc6c3bf/r:f6482c2c-cecf-460e-bdfc-a6517fec835b(TempModule5876d164-b107-4422-8cf9-02795dc6c3bf/TempModel_235352534804935)">
+            <model ref="0f7b7095-73e9-4c5d-88fe-b7d0cc2964f5/r:e0358709-33ba-457f-b0d1-5ffde12f32d2(TempModule0f7b7095-73e9-4c5d-88fe-b7d0cc2964f5/TempModel_198005621274506)">
               <persistence version="9" />
               <languages>
                 <use id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base" version="0" />
@@ -54,13 +65,13 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="JYArlM77zX">
-                <node concept="3balQm" id="JYArlM77zY" role="aymYE" />
-                <node concept="2Clz$F" id="JYArlM77zZ" role="aymYO">
+              <node concept="aymSD" id="42ygY3$fR$e">
+                <node concept="3balQm" id="42ygY3$fR$f" role="aymYE" />
+                <node concept="2Clz$F" id="42ygY3$fR$g" role="aymYO">
                   <property role="TrG5h" value="CommandHolder" />
                 </node>
-                <node concept="2_V_lH" id="JYArlM77$0" role="1PhJh3">
-                  <ref role="2_V_lI" node="JYArlM77zZ" resolve="CommandHolder" />
+                <node concept="2_V_lH" id="42ygY3$fR$h" role="1PhJh3">
+                  <ref role="2_V_lI" node="42ygY3$fR$g" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -82,9 +93,11 @@
       </view>
     </search_options>
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MPSBookmarkManager">
     <option name="myBookmarkInfos">
@@ -105,7 +118,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="873" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectPluginManager">
     <option name="pluginsState">
@@ -159,6 +172,9 @@
       </option>
     </option>
   </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -174,8 +190,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Favorites" />
-      <pane id="FileSystem" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,40 +199,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="10a03828-cd0d-460f-bb72-eac7ec825b13" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="f6bda572-156a-4ac5-b0ee-8857a479efea(jetbrains.mps.calculator)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="10a03828-cd0d-460f-bb72-eac7ec825b13" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jetbrains" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:8ae1a025-f0e6-4919-bc8b-a722b03bfb01(jetbrains.mps.calculator.sandbox) in IdeaFile{file:///Users/yumenosuke-k/Documents/Workspaces/MPSProjects/calcurator/languages/jetbrains.mps.calculator/sandbox/models/jetbrains.mps.calculator.sandbox.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -262,48 +242,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="f6bda572-156a-4ac5-b0ee-8857a479efea(jetbrains.mps.calculator)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:aeade717-6df0-4338-b4f5-ea29a115bf00(jetbrains.mps.calculator.structure) in IdeaFile{file:///Users/yumenosuke-k/Documents/Workspaces/MPSProjects/calcurator/languages/jetbrains.mps.calculator/models/structure.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="f6bda572-156a-4ac5-b0ee-8857a479efea(jetbrains.mps.calculator)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:cd68b56a-d1a9-4b87-bf27-bcb6e3b50c75(jetbrains.mps.calculator.editor) in IdeaFile{file:///Users/yumenosuke-k/Documents/Workspaces/MPSProjects/calcurator/languages/jetbrains.mps.calculator/models/editor.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="f6bda572-156a-4ac5-b0ee-8857a479efea(jetbrains.mps.calculator)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:6850741a-87de-4263-9d1b-e11481366278(jetbrains.mps.calculator.constraints) in IdeaFile{file:///Users/yumenosuke-k/Documents/Workspaces/MPSProjects/calcurator/languages/jetbrains.mps.calculator/models/constraints.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <SELECTED>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="10a03828-cd0d-460f-bb72-eac7ec825b13" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -312,12 +250,30 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:8ae1a025-f0e6-4919-bc8b-a722b03bfb01(jetbrains.mps.calculator.sandbox) in IdeaFile{file:///Users/yumenosuke-k/Documents/Workspaces/MPSProjects/calcurator/languages/jetbrains.mps.calculator/sandbox/models/jetbrains.mps.calculator.sandbox.mps}" />
+              <option name="myItemId" value="r:8ae1a025-f0e6-4919-bc8b-a722b03bfb01(jetbrains.mps.calculator.sandbox) in IdeaFile{file:///Users/yumenosuke-k/.ghq/github.com/GeneralD/calcurator/languages/jetbrains.mps.calculator/sandbox/models/jetbrains.mps.calculator.sandbox.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </SELECTED>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="f6bda572-156a-4ac5-b0ee-8857a479efea(jetbrains.mps.calculator)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="FileSystem" />
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -349,8 +305,11 @@
         <MyState>
           <option name="myModel" />
           <option name="myModule" />
+          <option name="myModelRef" />
+          <option name="myModuleRef" />
           <option name="myInProcess" value="true" />
           <option name="myReuseCaches" value="true" />
+          <option name="myOverrideCachesLocation" value="false" />
           <option name="myDebug" value="false" />
           <option name="myCachesPath" value="/var/folders/1v/cdnsf5tn1b39qsv6wb9078th0000gn/T/mps_test_dir0" />
           <option name="myTestCases">
@@ -375,7 +334,6 @@
           </option>
         </MyState>
       </myJavaRunParameters>
-      <method />
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -385,10 +343,11 @@
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="873" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="778" extended-state="0" />
     <layout>
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Menu Trace" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="25" side_tool="false" content_ui="tabs" />
       <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -397,20 +356,20 @@
       <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23082651" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23082651" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20243205" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20171674" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25986597" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="21" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="24" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22222222" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22222222" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="20" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="25" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17525035" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18025751" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
@@ -456,37 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://jetbrains.mps.calculator/jetbrains.mps.calculator.structure/&lt;no name&gt;[ConceptDeclaration]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="174" />
-                <property name="caretXRelative" value="35" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_text" cellNumber="0" isInList="false">
-                  <node node_reference="r:cd68b56a-d1a9-4b87-bf27-bcb6e3b50c75(jetbrains.mps.calculator.editor)/864297183084313015" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:cd68b56a-d1a9-4b87-bf27-bcb6e3b50c75(jetbrains.mps.calculator.editor)/864297183084313015" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:cd68b56a-d1a9-4b87-bf27-bcb6e3b50c75(jetbrains.mps.calculator.editor)/864297183084312974" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="mps://node://jetbrains.mps.calculator/jetbrains.mps.calculator.structure/&lt;no name&gt;[ConceptDeclaration]" />
   </component>
 </project>
