@@ -7,16 +7,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="600179ba-7e0c-4065-b88c-3a04bdea1f43" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.mps/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/sandbox/classes_gen/jetbrains/mps/calculator/sandbox/trace.info" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.mps/migration.xml" afterPath="$PROJECT_DIR$/.mps/migration.xml" />
       <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/jetbrains.mps.calculator.mpl" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/jetbrains.mps.calculator.mpl" />
-      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/constraints.mps" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/constraints.mps" />
-      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/editor.mps" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/editor.mps" />
-      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/structure.mps" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/structure.mps" />
-      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/typesystem.mps" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/models/typesystem.mps" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/classes_gen/jetbrains/mps/calculator/Language.class" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/classes_gen/jetbrains/mps/calculator/Language.class" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/classes_gen/jetbrains/mps/calculator/editor/EditorAspectDescriptorImpl.class" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/classes_gen/jetbrains/mps/calculator/editor/EditorAspectDescriptorImpl.class" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/classes_gen/jetbrains/mps/calculator/structure/ConceptPresentationAspectImpl.class" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/classes_gen/jetbrains/mps/calculator/structure/ConceptPresentationAspectImpl.class" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/classes_gen/jetbrains/mps/calculator/structure/trace.info" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/classes_gen/jetbrains/mps/calculator/structure/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/classes_gen/jetbrains/mps/calculator/trace.info" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/classes_gen/jetbrains/mps/calculator/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/generator/classes_gen/main/trace.info" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/generator/classes_gen/main/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/generator/source_gen.caches/main/dependencies" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/generator/source_gen.caches/main/dependencies" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/generator/source_gen/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/generator/source_gen/main/QueriesGenerated.java" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/generator/source_gen/main/trace.info" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/generator/source_gen/main/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/sandbox/source_gen.caches/jetbrains/mps/calculator/sandbox/generated" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/sandbox/source_gen.caches/jetbrains/mps/calculator/sandbox/generated" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen.caches/jetbrains/mps/calculator/constraints/generated" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen.caches/jetbrains/mps/calculator/constraints/generated" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen.caches/jetbrains/mps/calculator/editor/generated" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen.caches/jetbrains/mps/calculator/editor/generated" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen.caches/jetbrains/mps/calculator/generated" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen.caches/jetbrains/mps/calculator/generated" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen.caches/jetbrains/mps/calculator/structure/generated" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen.caches/jetbrains/mps/calculator/structure/generated" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen.caches/jetbrains/mps/calculator/typesystem/generated" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen.caches/jetbrains/mps/calculator/typesystem/generated" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen/jetbrains/mps/calculator/Language.java" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen/jetbrains/mps/calculator/Language.java" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen/jetbrains/mps/calculator/behavior/BehaviorAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen/jetbrains/mps/calculator/behavior/BehaviorAspectDescriptor.java" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen/jetbrains/mps/calculator/constraints/ConstraintsAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen/jetbrains/mps/calculator/constraints/ConstraintsAspectDescriptor.java" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen/jetbrains/mps/calculator/editor/EditorAspectDescriptorImpl.java" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen/jetbrains/mps/calculator/editor/EditorAspectDescriptorImpl.java" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen/jetbrains/mps/calculator/structure/ConceptPresentationAspectImpl.java" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen/jetbrains/mps/calculator/structure/ConceptPresentationAspectImpl.java" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen/jetbrains/mps/calculator/structure/trace.info" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen/jetbrains/mps/calculator/structure/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen/jetbrains/mps/calculator/trace.info" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.calculator/source_gen/jetbrains/mps/calculator/trace.info" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -94,7 +107,41 @@
     </search_options>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Calculator" pinned="false" current-in-tab="true">
+        <entry file="mps://node://jetbrains.mps.calculator.sandbox/jetbrains.mps.calculator.sandbox/Calculator">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="15" />
+                    <property name="caretXRelative" value="0" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="Constant_uh00px_a0">
+                      <node node_reference="r:8ae1a025-f0e6-4919-bc8b-a722b03bfb01(jetbrains.mps.calculator.sandbox)/864297183084373708" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:8ae1a025-f0e6-4919-bc8b-a722b03bfb01(jetbrains.mps.calculator.sandbox)/864297183084373708" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -115,7 +162,7 @@
       </array>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="778" />
@@ -201,6 +248,28 @@
               <option name="myItemId" value="10a03828-cd0d-460f-bb72-eac7ec825b13" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jetbrains" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:8ae1a025-f0e6-4919-bc8b-a722b03bfb01(jetbrains.mps.calculator.sandbox) in IdeaFile{file:///Users/yumenosuke-k/.ghq/github.com/GeneralD/calcurator/languages/jetbrains.mps.calculator/sandbox/models/jetbrains.mps.calculator.sandbox.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="10a03828-cd0d-460f-bb72-eac7ec825b13" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jetbrains" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -222,11 +291,13 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="10a03828-cd0d-460f-bb72-eac7ec825b13" />
+              <option name="myItemId" value="f6bda572-156a-4ac5-b0ee-8857a479efea(jetbrains.mps.calculator)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jetbrains" />
+              <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,31 +316,13 @@
               <option name="myItemId" value="10a03828-cd0d-460f-bb72-eac7ec825b13" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jetbrains" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:8ae1a025-f0e6-4919-bc8b-a722b03bfb01(jetbrains.mps.calculator.sandbox) in IdeaFile{file:///Users/yumenosuke-k/.ghq/github.com/GeneralD/calcurator/languages/jetbrains.mps.calculator/sandbox/models/jetbrains.mps.calculator.sandbox.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
           </PATH>
-          <PATH>
+          <SELECTED>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="f6bda572-156a-4ac5-b0ee-8857a479efea(jetbrains.mps.calculator)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
+          </SELECTED>
         </subPane>
       </pane>
       <pane id="FileSystem" />
@@ -283,8 +336,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="background.image.plus" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -343,7 +395,7 @@
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="778" extended-state="0" />
+    <frame x="0" y="22" width="1280" height="778" extended-state="6" />
     <layout>
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -356,11 +408,11 @@
       <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23082651" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23082651" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20171674" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22778675" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25986597" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="21" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="24" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22222222" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22091311" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="20" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -369,7 +421,7 @@
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="25" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18025751" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20355412" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
@@ -394,17 +446,60 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://node://jetbrains.mps.calculator.sandbox/jetbrains.mps.calculator.sandbox/Calculator">
+    <entry file="mps://node://jetbrains.mps.calculator/jetbrains.mps.calculator.structure/&lt;no name&gt;[ConceptDeclaration]" />
+    <entry file="mps://node://jetbrains.mps.ide.httpsupport/jetbrains.mps.ide.httpsupport.structure/DefaultValueFunction">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="84" />
+                <property name="caretXRelative" value="61" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_l1c0">
+                  <node node_reference="r:3c30b5c5-2f86-4daf-bab8-b406cfefcb4f(jetbrains.mps.ide.httpsupport.structure)/3286885855910473564" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
             <errorMarkers />
             <transactionalProperties />
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:3c30b5c5-2f86-4daf-bab8-b406cfefcb4f(jetbrains.mps.ide.httpsupport.structure)/3286885855910473564" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3c30b5c5-2f86-4daf-bab8-b406cfefcb4f(jetbrains.mps.ide.httpsupport.structure)/3286885855910473564" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.calculator.sandbox/jetbrains.mps.calculator.sandbox/Calculator">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="15" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_uh00px_a0">
+                  <node node_reference="r:8ae1a025-f0e6-4919-bc8b-a722b03bfb01(jetbrains.mps.calculator.sandbox)/864297183084373708" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:8ae1a025-f0e6-4919-bc8b-a722b03bfb01(jetbrains.mps.calculator.sandbox)/864297183084373708" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -415,6 +510,5 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://jetbrains.mps.calculator/jetbrains.mps.calculator.structure/&lt;no name&gt;[ConceptDeclaration]" />
   </component>
 </project>
